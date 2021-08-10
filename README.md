@@ -13,7 +13,7 @@ Then the Employers column had certain Employers which are the same but the entry
 I corrected for those.
 Finally, I filtered out the columns which I found most relevant to my analysis: "EventDate","Employer","City","State","Hospitalized","Amputation","NatureTitle","Part of Body Title","EventTitle","SourceTitle".
 
-Step 2: INITIAL STATS
+Step 2: INITIAL STATISTICS
 
 I found out the top 5 injuries, Employers and States by normalizing the data.
 This indicated that the top 5 injuries are 'Amputations','Fractures','Soreness, pain, hurt-nonspecified injury','Traumatic injuries and disorders, unspecified' and 'Cuts, lacerations'.
